@@ -5,4 +5,4 @@ val: training/cfg/whill-test.txt
 # number of classes
 nc: 1
 # class names
-names: ['WHILLWHILLModelC']
+names: ['WHILLModelC']
