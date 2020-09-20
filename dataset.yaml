@@ -1,0 +1,8 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: training/cfg/whill-train.txt
+val: training/cfg/whill-text.txt
+
+# number of classes
+nc: 1
+# class names
+names: ['WHILLWHILLModelC']

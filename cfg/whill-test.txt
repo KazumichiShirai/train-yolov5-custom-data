@@ -1,0 +1,7 @@
+/cotent/yolov5/training/data/whill/000069.jpg
+/cotent/yolov5/training/data/whill/000139.jpg
+/cotent/yolov5/training/data/whill/000017.jpg
+/cotent/yolov5/training/data/whill/000138.jpg
+/cotent/yolov5/training/data/whill/000003.jpg
+/cotent/yolov5/training/data/whill/000036.jpg
+/cotent/yolov5/training/data/whill/000046.jpg
