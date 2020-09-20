@@ -1,6 +1,6 @@
 # train and val datasets (image directory or *.txt file with image paths)
 train: training/cfg/whill-train.txt
-val: training/cfg/whill-text.txt
+val: training/cfg/whill-test.txt
 
 # number of classes
 nc: 1
